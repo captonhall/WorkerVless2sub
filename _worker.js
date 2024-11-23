@@ -42,7 +42,7 @@ let addresses = [
 'www.xinpian8.com',
 'www.zsu.gov.ua',
 'xn--b6gac.eu.org',
-'xs.wxtv.cc',
+'xs.wxtv.cc'
 ];
 
 // 设置优选地址api接口
